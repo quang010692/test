@@ -1,0 +1,8 @@
+/* ToolbarButton */
+#timeLimiterButton{
+  list-style-image: url("chrome://timeLimiter/skin/timelimiter.normal.png");
+}
+
+toolbar[iconsize="large"] #timeLimiterButton {
+  list-style-image: url("chrome://timeLimiter/skin/timelimiter.normal.png");
+}

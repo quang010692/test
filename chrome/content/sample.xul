@@ -1,1 +1,0 @@
-<?xml version="1.0"?><overlay id="sample"          xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">         xmlns:html="http://www.w3.org/1999/xhtml"		  <statusbar id="status-bar">  <statusbarpanel id="my-panel" label="learning: STBar Overlays"  /> </statusbar> </overlay>

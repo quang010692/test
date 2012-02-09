@@ -1,1 +1,1 @@
-content     sample    chrome/content/overlay chrome://browser/content/browser.xul chrome://sample/content/sample.xuloverlay chrome://messenger/content/mailWindowOverlay.xul chrome://sample/content/navigatorOverlay.xul
+content     timeLimiter    chrome/content/skin	timeLimiter  classic/1.0 chrome/skin/overlay chrome://browser/content/browser.xul chrome://timeLimiter/content/timeLimiter.xulstyle	chrome://global/content/customizeToolbar.xul	chrome://timeLimiter/skin/timelimiter.cssstyle	chrome://browser/content/browser.xul	chrome://timeLimiter/skin/timelimiter.css

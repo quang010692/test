@@ -1,0 +1,9 @@
+/* ToolbarButton */
+#xulschoolhello-hello-world-button {
+  list-style-image: url("chrome://sample/skin/timelimiter.normal.png");
+}
+
+toolbar[iconsize="small"] #xulschoolhello-hello-world-button {
+  list-style-image: url("chrome://sample/skin/timelimiter.normal.png");
+  /*-moz-image-region: rect(0px 16px 16px 0px);*/
+}
